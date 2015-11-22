@@ -1,5 +1,6 @@
 #!/usr/bin/python
-
+# For the case of the quiz, it takes 1.2s to finish the page rank iteration
+# for http://snap.stanford.edu/data/web-Google.txt.gz data.
 import sys
 import math
 import time
